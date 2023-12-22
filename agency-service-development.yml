@@ -3,7 +3,7 @@ server:
 
 flat:
   api:
-    url: "https://localhost:8443/flat-service-0.0.1-SNAPSHOT/api/v1/"
+    url: "https://localhost:8082/api/v1/"
 
 eureka:
   client:
